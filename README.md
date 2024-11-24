@@ -82,20 +82,3 @@ The script includes error handling for common issues:
 - Malformed VCF data
 
 Error messages will be logged to help identify any issues during conversion.
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests for any improvements you make.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- vobject library for VCF parsing
-- pandas for CSV handling
-
-## Support
-
-If you encounter any issues or have questions, please open an issue on the GitHub repository.
